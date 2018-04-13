@@ -10,6 +10,6 @@ public class SpringCoreDevOpsApplication {
 		SpringApplication.run(SpringCoreDevOpsApplication.class, args);
 
 		//This is a test
-		// another test...
+		// THis is another  test...
 	}
 }
